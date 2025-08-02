@@ -158,35 +158,7 @@ edge_orientations: np.array[12]
 | 15 moves | 100% | 0.005s |
 | 25 moves | 100% | 0.006s |
 
-## 🎉 Demonstration
 
-The `demo.py` script offers three demonstration modes:
 
-### 📊 2D Demo (Classic)
-1. **Problem-Solving Approach** - Architecture overview
-2. **Data Structures** - State representation
-3. **State Prediction** - Move engine capabilities
-4. **Algorithm Efficiency** - Performance testing
-5. **Visual Simulation** - 2D cube rendering
-6. **Algorithm Comparison** - Layer-by-Layer vs Kociemba
-7. **Performance Benchmark** - Stress testing
 
-### 🎨 3D Demo (Enhanced)
-1. **3D Visualization Showcase** - Stunning cube rendering
-2. **Algorithm Performance** - With 3D visual results
-3. **Multiple Algorithm Comparison** - Side-by-side 3D analysis
-4. **Performance Benchmark** - With visualization exports
-5. **Creative 3D Features** - Multiple cube state gallery
-6. **Interactive 3D Display** - Rotate and examine cubes
-7. **High-Quality Exports** - PNG images for presentations
 
-### 🚀 Both (Complete Experience)
-Runs the full demonstration combining both 2D analysis and 3D visualization for the ultimate showcase.
-
-## 🏆 Hackathon Requirements Met
-
-✅ **Problem-Solving Approach**: Cubie-based state representation with multi-algorithm strategies  
-✅ **Data Structures**: Efficient numpy arrays with O(1) move operations  
-✅ **State Prediction Logic**: Accurate move simulation and validation engine  
-✅ **Algorithm Efficiency**: Sub-millisecond solving with 100% success rate  
-✅ **Bonus Features**: 3D visualization, visual simulation, benchmarking, and extensible architecture
